@@ -24,7 +24,21 @@
 
 </LinearLayout>
 
-<!--         Gợi ý code : ctrl + space-->
+<!--    margin : dãn cách ngoài view-->
+
+<!--    padding : dãn cách bên trong view-->
+
+<!--    layout_width : chiều ngang-->
+
+<!--    layout_height : chiều cao-->
+
+<!--    gravity : xét vị trí giao diện của con-->
+<!--    hoặc của mình-->
+
+<!--    orientation : hướng sắp xếp của linear-->
+
+
+    <!--     Gợi ý code : ctrl + space-->
     <!--     Comment code : ctrl + /-->
     <!--     Cách tạo ra 1 thẻ view hoặc view group-->
     <!--     <TextView/>-->
